@@ -1,0 +1,5 @@
+Dataset,Source,Pull_Date,Frequency,Units_Notes
+CPI Index,OECD/World Bank (link),2025-10-14,Annual,Index base=2010=100
+Median Income,OECD/BLS/Census (link),2025-10-14,Annual,Local currency; converted→USD before indexing
+Housing Price Index,OECD/FHFA/Case-Shiller (link),2025-10-14,Quarterly/Annual,Index base aligned to 2010=100
+Mortgage Rate,Central Bank series (link),2025-10-14,Monthly/Annual Avg,Percent per annum

@@ -1,0 +1,5 @@
+Geo,Year,Home_Price,Income,Mortgage_Rate,DownPaymentPct,TermYears,LoanAmount,MonthlyPayment,AffordabilityRatio,AffordabilityFlag
+United States,2010,220000,62000,4.7,20,30,176000,911.0,0.18,Within 30%
+United States,2023,425000,76000,6.8,20,30,340000,2219.0,0.35,30% rule exceeded
+Spain,2010,180000,29000,3.2,20,30,144000,622.0,0.26,Within 30%
+Spain,2023,240000,31000,3.8,20,30,192000,890.0,0.34,30% rule exceeded

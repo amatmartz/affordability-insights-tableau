@@ -1,0 +1,7 @@
+Geo,Year,CPI_Index,Wage_Index,Price_Index,Notes
+United States,2008,92.1,95.4,88.7,Indices base=2010=100
+United States,2010,100.0,100.0,100.0,Baseline year
+United States,2012,103.6,101.8,106.9,
+Spain,2008,93.2,96.1,90.5,Indices base=2010=100
+Spain,2010,100.0,100.0,100.0,Baseline year
+Spain,2012,104.7,98.9,101.2,
