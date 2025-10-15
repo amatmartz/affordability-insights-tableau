@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+__pycache__/ 
+.ipynb_checkpoints/
+data/raw/
+data/private/
+*.zip
+*.xlsx
+*.parquet
+*.twb
+*.twbx
+assets/*.psd
+assets/*.ai
+!data/.gitkeep
+!data/processed/.gitkeep
